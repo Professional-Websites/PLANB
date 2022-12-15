@@ -2831,7 +2831,7 @@ nav .btn a{
 }
 
 .footer .single-footer.f-about {
-  padding-right: 30px;
+  padding-right: 0px;
 }
 
 @media (max-width: 767px) {
